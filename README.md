@@ -18,6 +18,7 @@ SwagLabs is all-in-one platform for web and mobile application testing and error
 Used POM test automation design pattern to structure my project into Pages & Tests classes. It improved my code by reducing code duplication, making my code cleaner and enhacing test maintenance, by separating the interaction with elements and test logic.
 
 
+
 Features:
 
 ✅ Login functionality: Login with predefined username and password .
