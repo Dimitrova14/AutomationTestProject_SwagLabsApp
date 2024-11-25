@@ -2,6 +2,7 @@
 SwagLabs is all-in-one platform for web and mobile application testing and error monitoring. It provides an online shopping app where users can browse products, add or remove items from their cart, and purchase them by filling their checkout credentials.
 
 
+
 <p align="center">
   <img 
     alt="Software University Logo"
