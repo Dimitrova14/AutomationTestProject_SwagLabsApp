@@ -22,7 +22,7 @@ Used POM test automation design pattern to structure my project into Pages & Tes
 <p align="left">
   <img 
     alt="Selenium WebDriver logo"
-    src="https://th.bing.com/th/id/R.9aeb1513d7b86e08d359ea1199cf8fff?rik=uU%2fmasQG9%2fnmkg&riu=http%3a%2f%2fselenium.dev%2fimages%2fselenium_logo_square_green.png&ehk=N3nNoap1iLnQ9DKrlKliSE4kEN0RyaL0Hfin0tNImoo%3d&risl=&pid=ImgRaw&r=0)](https://th.bing.com/th/id/R.9aeb1513d7b86e08d359ea1199cf8fff?rik=uU%2fmasQG9%2fnmkg&riu=http%3a%2f%2fselenium.dev%2fimages%2fselenium_logo_square_green.png&ehk=N3nNoap1iLnQ9DKrlKliSE4kEN0RyaL0Hfin0tNImoo%3d&risl=&pid=ImgRaw&r=0)](https://th.bing.com/th/id/OIP.NJZt3xbb1bR0DyA1XkWvOwHaHv?rs=1&pid=ImgDetMain)"
+    src="[https://th.bing.com/th/id/R.9aeb1513d7b86e08d359ea1199cf8fff?rik=uU%2fmasQG9%2fnmkg&riu=http%3a%2f%2fselenium.dev%2fimages%2fselenium_logo_square_green.png&ehk=N3nNoap1iLnQ9DKrlKliSE4kEN0RyaL0Hfin0tNImoo%3d&risl=&pid=ImgRaw&r=0)](https://th.bing.com/th/id/R.9aeb1513d7b86e08d359ea1199cf8fff?rik=uU%2fmasQG9%2fnmkg&riu=http%3a%2f%2fselenium.dev%2fimages%2fselenium_logo_square_green.png&ehk=N3nNoap1iLnQ9DKrlKliSE4kEN0RyaL0Hfin0tNImoo%3d&risl=&pid=ImgRaw&r=0)](https://th.bing.com/th/id/OIP.NJZt3xbb1bR0DyA1XkWvOwHaHv?rs=1&pid=ImgDetMain)](https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png)"
     width="20"
   >
 </p>
